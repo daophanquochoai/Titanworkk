@@ -41,3 +41,5 @@ Learn git --- Các câu lệnh
 # ! [rejected]        main -> main (fetch first) error: failed to push some refs to 'https://github.com/daophanquochoai/Titanworkk.git
   - git pull --rebase origin main
   - git push -u origin main
+# Liệt kê các nhánh 
+  - git branch -a
