@@ -38,3 +38,6 @@ Learn git --- Các câu lệnh
   - git clone URL
 # Thay đổi
   - git pull URL
+# ! [rejected]        main -> main (fetch first) error: failed to push some refs to 'https://github.com/daophanquochoai/Titanworkk.git
+  - git pull --rebase origin main
+  - git push -u origin main
